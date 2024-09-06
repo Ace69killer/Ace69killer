@@ -4,7 +4,6 @@
 
 #define BLYNK_TEMPLATE_ID "TMPL3oHJK_lBM"
 #define BLYNK_TEMPLATE_NAME "H2O Monitoring System" 
-#define BLYNK_TEMPLATE_NAME "H2O Monitoring System"
 #define BLYNK_AUTH_TOKEN "OB71Nn3EXfFieQXoOwf6Gesq8LnFfhoG"
 char ssid[] = "MuthuBros 5G;                       // Your WiFi credentials.
 char pass[] = "becool@101";
